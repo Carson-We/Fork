@@ -1,6 +1,6 @@
 # Repository for Fork Project
 
-This GitHub repository serves as a central location for storing the code of my Fork project. The project is licensed under the Mozilla Public License Version 2.0.
+This GitHub repository serves as a central location for storing the code of my fork project. The project is licensed under the Mozilla Public License Version 2.0.
 
 ## License
 
@@ -14,7 +14,7 @@ This repository utilizes the MonoRepo approach, which involves integrating multi
 
 ## Getting Started
 
-To begin working with the Utility project, follow these steps:
+To begin working with the fork project, follow these steps:
 
 1. Clone the repository to your local machine:
 
@@ -26,11 +26,11 @@ To begin working with the Utility project, follow these steps:
 
 3. Explore the directory, which contains the implementation of various machine learning algorithms and techniques.
 
-4. Execute the scripts to run the Fork project on your own examples.
+4. Execute the scripts to run the fork project on your own examples.
 
 ## Contribution Guidelines
 
-Contributions to this Fork project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
+Contributions to this fork project are highly appreciated. If you wish to contribute, please adhere to the following guidelines:
 
 - Fork the repository and create a new branch for your contributions.
 - Make your changes and thoroughly test them.
@@ -40,6 +40,6 @@ By contributing to this project, you agree to license your contributions under t
 
 ## Contact Information
 
-If you have any questions or suggestions regarding this utility project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
+If you have any questions or suggestions regarding this fork project, please feel free to contact me at [carson.developer1125@gmail.com](mailto:carson.developer1125@gmail.com).
 
 Thank you for your interest and contributions to the project!
