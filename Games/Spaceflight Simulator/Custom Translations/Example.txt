@@ -130,6 +130,17 @@
     Mode_Label=Mode:
     Difficulty_Label=Difficulty:
 
+[Teleport Menu]
+    Teleport_Cheat=Teleport
+    Teleport_Action=Teleport
+    Planet_Select=Celestial Body:
+    Surface_Teleport_Type=Surface
+    Orbit_Teleport_Type=Orbit
+    Teleport_Longitude=Longitude:
+    Teleport_Height=Height (%unit%):
+    Teleport_Orbit_Prograde=Prograde
+    Teleport_Orbit_Retrograde=Retrograde
+
 [Saving]
 # Blueprint stuff
     Blueprints_Menu_Title=Blueprints
@@ -175,6 +186,7 @@
 
 [Purchasing]
     Open_Shop_Menu=Expansions
+    Open_Shop_Menu_2=Open shop
     Parts_Expansion=Parts Expansion
     Redstone_Atlas_Pack=Redstone Atlas Pack
     Skins_Expansion=Skins Expansion
@@ -278,6 +290,14 @@
     No_Gravity_Name=No Gravity
     No_Heat_Damage_Name=No Heat Damage
     No_Burn_Marks_Name=No Burn Marks
+    Refill_Fuel_Tanks=Refill Fuel Tanks
+    Unlock_Cheats_Button=Unlock Cheats
+
+    Unlock_Cheats_Warning=Enabling cheats will convert your Challenge world to a Sandbox world.
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=This change is irreversible.
+    Unlock_Cheats_Warning=
+    Unlock_Cheats_Warning=Are you sure you want to proceed?
 
 [Tutorials]
 
@@ -631,6 +651,30 @@
     Msg_Parachute_Half_Deployed=Parachute half deployed
     Msg_Parachute_Fully_Deployed=Parachute fully deployed
     Msg_Parachute_Cut=Parachute cut
+
+[Part Pick Categories]
+# Part Categories in Pick Part Menu
+    Part_Pick_Category_Aero=Aero
+    Part_Pick_Category_Parachutes=Parachutes
+    Part_Pick_Category_Engines=Engines
+    Part_Pick_Category_Structural=Structural
+    Part_Pick_Category_Utility=Utility
+    Part_Pick_Category_Control=Control
+    Part_Pick_Category_Landing=Landing
+    Part_Pick_Category_Electricity=Electric
+
+    Part_Pick_Category_Fuel=Fuel
+    Part_Pick_Category_Fuel=Tanks
+
+    Part_Pick_Category_Fairings=Fairings
+    Part_Pick_Category_Wheels=Wheels
+    Part_Pick_Category_Docking=Docking
+
+    Part_Pick_Category_Heat_Protection=Heat
+    Part_Pick_Category_Heat_Protection=Shields
+
+    Part_Pick_Category_Staging=Staging
+    Part_Pick_Category_Mounts=Mounts
 
 [Planets]
     Sun{0}=Sun
